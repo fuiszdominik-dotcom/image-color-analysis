@@ -9,6 +9,7 @@ A pictures mappa a teszteléshez használt mintaképeket tartalmazza, de a progr
 A train_dataset mappa a tanítóképek kezelésére szolgál, amely lehetőséget biztosít a modell további tesztelésére és bővítésére.
 A szakdolgozat során használt teljes tanító adatkészlet mérete miatt nem került feltöltésre a mellékletek közé. Az adatkészlet az alábbi linken letölthető:
 https://drive.google.com/file/d/1wc_cSvTEd9FH31rJ4B76N8OAFudwJ0z4/view?usp=sharing
+https://1drv.ms/u/c/94230f54b0e90d42/IQAyDst-2ddzTY2U1VtV4KV_AS6lQqZqH5XiSKC_0QVLOR8?e=bXO9Wj
 
 
 Futtatás (Windows):
