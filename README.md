@@ -1,7 +1,7 @@
 # image-color-analysis
 Szakdolgozat projekt
 
-A `pictures mappa` a teszteléshez használt mintaképeket tartalmazza, de a program más képek elemzésére is alkalmas új képek hozzáadásával, illetve egy teljesen új, képekkel feltöltött mappa megadásával.
+A `pictures` mappa a teszteléshez használt mintaképeket tartalmazza, de a program más képek elemzésére is alkalmas új képek hozzáadásával, illetve egy teljesen új, képekkel feltöltött mappa megadásával.
 
 A `pictures.zip` kicsomagolásakor fontos, hogy a képfájlok közvetlenül a `pictures` mappába kerüljenek.
 
