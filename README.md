@@ -1,9 +1,6 @@
 # image-color-analysis
 Szakdolgozat projekt
 
-(Megjegyzés: ha a virtuális környezet már létezik és tartalmazza a csomagokat,
-a 4. lépés kihagyható.)
-
 A pictures mappa a teszteléshez használt mintaképeket tartalmazza, de a program más képek elemzésére is alkalmas új képek hozzáadásával, illetve egy teljesen új, képekkel feltöltött mappa megadásával.
 
 A train_dataset mappa a tanítóképek kezelésére szolgál, amely lehetőséget biztosít a modell további tesztelésére és bővítésére.
