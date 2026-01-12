@@ -16,16 +16,21 @@ Futtatás (Windows):
    ahol a main.py található.
 
 2) Virtuális környezet létrehozása:
+
    py -3.12 -m venv .venv
 
-3) Virtuális környezet aktiválása:
-   .\.venv\Scripts\activate.bat
+4) Virtuális környezet aktiválása:
 
-4) Csomagok telepítése:
+   .\\.venv\Scripts\activate.bat
+
+5) Csomagok telepítése:
+
    python -m pip install --upgrade pip
+
    python -m pip install -r requirements.txt
 
-5) Program indítása:
+7) Program indítása:
+
    python main.py
 
 
@@ -34,14 +39,19 @@ Futtatás (Linux):
 1) Nyiss egy terminált abban a mappában, ahol a main.py fájl található.
 
 2) Virtuális környezet létrehozása:
+
    python3.12 -m venv .venv
 
-3) Virtuális környezet aktiválása:
+4) Virtuális környezet aktiválása:
+
    source .venv/bin/activate
 
-4) Csomagok telepítése:
+6) Csomagok telepítése:
+
    python -m pip install --upgrade pip
+
    python -m pip install -r requirements.txt
 
-5) Program indítása:
+8) Program indítása:
+
    python main.py
