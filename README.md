@@ -1,9 +1,24 @@
 # image-color-analysis
 Szakdolgozat projekt
 
-A pictures mappa a teszteléshez használt mintaképeket tartalmazza, de a program más képek elemzésére is alkalmas új képek hozzáadásával, illetve egy teljesen új, képekkel feltöltött mappa megadásával.
+A `pictures mappa` a teszteléshez használt mintaképeket tartalmazza, de a program más képek elemzésére is alkalmas új képek hozzáadásával, illetve egy teljesen új, képekkel feltöltött mappa megadásával.
 
-A train_dataset mappa a tanítóképek kezelésére szolgál, amely lehetőséget biztosít a modell további tesztelésére és bővítésére.
+A `pictures.zip` kicsomagolásakor fontos, hogy a képfájlok közvetlenül a `pictures` mappába kerüljenek.
+
+Helyes mappaszerkezet:
+
+pictures/
+  kep1.jpg
+  kep2.jpg
+  ...
+
+Helytelen mappaszerkezet:
+
+pictures/pictures/
+  kep1.jpg
+  kep2.jpg
+
+A `train_dataset` mappa a tanítóképek kezelésére szolgál, amely lehetőséget biztosít a modell további tesztelésére és bővítésére.
 A szakdolgozat során használt teljes tanító adatkészlet mérete miatt nem került feltöltésre a mellékletek közé. Az adatkészlet az alábbi linken letölthető:
 https://drive.google.com/file/d/1wc_cSvTEd9FH31rJ4B76N8OAFudwJ0z4/view?usp=sharing
 
