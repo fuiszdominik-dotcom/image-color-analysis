@@ -7,16 +7,20 @@ A `pictures.zip` kicsomagolásakor fontos, hogy a képfájlok közvetlenül a `p
 
 Helyes mappaszerkezet:
 
+```text
 pictures/
   kep1.jpg
   kep2.jpg
   ...
+```
 
 Helytelen mappaszerkezet:
 
+```text
 pictures/pictures/
   kep1.jpg
   kep2.jpg
+```
 
 A `train_dataset` mappa a tanítóképek kezelésére szolgál, amely lehetőséget biztosít a modell további tesztelésére és bővítésére.
 A szakdolgozat során használt teljes tanító adatkészlet mérete miatt nem került feltöltésre a mellékletek közé. Az adatkészlet az alábbi linken letölthető:
@@ -30,12 +34,15 @@ A `train_dataset` mappa a tanításhoz használt képeket tartalmazza kategóri�
 
 Helyes mappaszerkezet:
 
+
+```text
 train_dataset/
   erdei/
   naplemente/
+```
 
 
-Futtatás (Windows):
+# Futtatás (Windows):
 
 1) Nyiss Parancssort (CMD) abban a mappában,
    ahol a main.py található.
@@ -59,7 +66,7 @@ Futtatás (Windows):
    python main.py
 
 
-Futtatás (Linux):
+# Futtatás (Linux):
 
 1) Nyiss egy terminált abban a mappában, ahol a main.py fájl található.
 
